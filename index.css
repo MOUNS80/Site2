@@ -1,0 +1,19 @@
+    /* image margin */
+    img {
+        margin-left: 50%;
+    }
+
+    /* set title in red */
+    h1 {
+        color:red;
+    }
+
+    /* set button in red */
+    button {
+        background-color: red;
+    }
+
+    /* set button in green while you're hover it */
+    button:hover {
+        background-color: green;
+    }
